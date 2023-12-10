@@ -85,4 +85,3 @@ int main()
   in(ds,N);
   return 0;
 }
-//-----YEU CODE HON CRUSH-----//
