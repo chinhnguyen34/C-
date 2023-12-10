@@ -1,4 +1,3 @@
-//Made By Phuong Nam PROPTIT <3//
 #pragma GCC Optimize("O3")
 #include<bits/stdc++.h>
 #include<string>
